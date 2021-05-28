@@ -1,0 +1,47 @@
+[1;32m*[m   85a4880 (← [1;32mmain[m ← [1;30;47mHEAD[m) Merge branch '[1;31mfeature-3[90m'
+[1;32m|[m[1;31m\[m
+[1;32m|[m [1;31m*[m 6057a0a commit 3-1.3
+[1;32m|[m [1;31m*[m aa2d7e7 commit 3-1.2
+[1;32m|[m [1;31m*[m c5130d2 commit 3-1.1
+[1;32m|[m [1;32m:[m [90mbranch started 29 lines below off of main: 84b1d36 Merge branch 'feature-6'[m
+[1;32m*[m a6f44d9 Merge branch '[1;38;5;11mfeature-2[90m'
+[1;32m|[m[1;38;5;11m\[m
+[1;32m|[m [1;38;5;11m*[m 97612ed commit 2-1.3
+[1;32m|[m [1;38;5;11m*[m f3e66fc commit 2-1.2
+[1;32m|[m [1;38;5;11m*[m 2a5af7a commit 2-1.1
+[1;32m|[m [1;32m:[m [90mbranch started 32 lines below off of main: f7d3186 initial empty commit[m
+[1;32m*[m 02bfff3 Merge branch '[1;34mfeature-1[m'
+[1;32m|[m[1;34m\[m
+[1;32m|[m [1;34m*[m 50a334e commit 1-1.3
+[1;32m|[m [1;34m*[m 29d5386 commit 1-1.2
+[1;32m|[m [1;34m*[m 099a656 Merge branch '[1;32mmain[90m' into '[1;34mfeature-1[90m'
+[1;32m|[m [1;34m|[m[1;32m\[m
+[1;32m|[m [1;34m|[m [1;32m:[m [90mmerging commit 15 lines below from main: 84b1d36 Merge branch 'feature-6'[m
+[1;32m|[m [1;34m*[m eccd08a commit 1-1.1
+[1;32m|[m [1;32m:[m [90mbranch started 24 lines below off of main: f7d3186 initial empty commit[m
+[1;32m*[m d185b26 Merge branch '[1;35mfeature-4[m'
+[1;32m|[m[1;35m\[m
+[1;32m|[m [1;35m*[m 6c044c8 commit 4-1.3
+[1;32m|[m [1;35m*[m 3f9cdd9 commit 4-1.2
+[1;32m|[m [1;35m*[m 5da9916 commit 4-1.1
+[1;32m|[m [1;35m:[m [90mbranch started 8 lines below off of main: 84b1d36 Merge branch 'feature-6'[m
+[1;32m*[m bcc9b74 Merge branch '[1;36mfeature-5[m'
+[1;32m|[m[1;36m\[m
+[1;32m|[m [1;36m*[m 56ef96c commit 5-1.3
+[1;32m|[m [1;36m*[m 22d50d7 commit 5-1.2
+[1;32m|[m [1;36m*[m 5d539a3 commit 5-1.1
+[1;32m|[m[1;36m/[m
+[1;32m|[m [1;34m:[m [90mbranch '[1;32mmain[90m' to be merged into '[1;34mfeature-1[90m' 17 lines above at 099a656[m
+[1;32m|[m [1;31m:[m [90mstart of [1;31mfeature-3[m
+[1;32m|[m [1;35m:[m [90mstart of [1;35mfeature-4[m
+[1;32m|/[m
+[1;32m*[m 84b1d36 Merge branch '[1;38;5;214mfeature-6[m'
+[1;32m|[m[1;38;5;214m\[m
+[1;32m|[m [1;38;5;214m*[m b5f5ef6 commit 6-1.3
+[1;32m|[m [1;38;5;214m*[m 691a8f6 commit 6-1.2
+[1;32m|[m [1;38;5;214m*[m 50dc2ae commit 6-1.1
+[1;32m|[m[1;38;5;214m/[m
+[1;32m|[m [1;38;5;11m: [90mstart of [1;38;5;11mfeature-2[m
+[1;32m|[m [1;34m: [90mstart of [1;34mfeature-1[m
+[1;32m|[m[1;32m/[m
+[1;32m*[m f7d3186 initial empty commit
